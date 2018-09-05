@@ -17,5 +17,8 @@ Music Website dedicated to exploring and my love of music, i really enjoyed buil
 ![image](https://user-images.githubusercontent.com/32308521/45067326-a8e29180-b090-11e8-8ca4-618975771f0b.png)
 ![image](https://user-images.githubusercontent.com/32308521/45067344-bef05200-b090-11e8-8acc-f0bccfdc646e.png)
 ![image](https://user-images.githubusercontent.com/32308521/45067357-d0395e80-b090-11e8-91e6-de4785cf529a.png)
+![image](https://user-images.githubusercontent.com/32308521/45067461-59e92c00-b091-11e8-859a-af8f80f06197.png)
+![image](https://user-images.githubusercontent.com/32308521/45067465-5d7cb300-b091-11e8-9d85-cf6b649e7376.png)
+
 
 
